@@ -14,6 +14,9 @@ const Home = Loadable(lazy(() => import('views/home')));
 
 const Campaign = Loadable(lazy(() => import('views/create-campaigns')));
 
+const CampaignDetails = Loadable(lazy(() => import('views/campaign-details')));
+
+
 // ==============================|| MAIN ROUTING ||============================== //
 
 const MainRoutes = {
@@ -44,6 +47,10 @@ const MainRoutes = {
     {
       path: '/create-campaigns',
       element: <Campaign />
+    },
+    {
+      path: '/campaign-details/:title',
+      element: <CampaignDetails />
     }
   ]
 };
