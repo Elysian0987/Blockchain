@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@cfx-kit/wallet-avatar": "^0.0.5"
+  }
+}
