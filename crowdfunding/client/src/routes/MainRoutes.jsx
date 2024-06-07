@@ -42,7 +42,7 @@ const MainRoutes = {
       element: <Home />
     },
     {
-      path: '/create-campaign',
+      path: '/create-campaigns',
       element: <Campaign />
     }
   ]
