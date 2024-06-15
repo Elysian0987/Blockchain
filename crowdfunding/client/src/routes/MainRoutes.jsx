@@ -37,10 +37,6 @@ const MainRoutes = {
       ]
     },
     {
-      path: '/sample-page',
-      element: <SamplePage />
-    },
-    {
       path: '/home',
       element: <Home />
     },

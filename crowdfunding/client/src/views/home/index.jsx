@@ -30,8 +30,8 @@ const Home = () => {
 
     if (!address) {
         return (
-            <MainCard title='Create Campaign'>
-                <Typography variant="h6" color={'0000'}>Please connect your wallet.</Typography>
+            <MainCard title='View Campaign'>
+                <Typography variant="h6" color={'red'}>Please connect your wallet to view campaigns.</Typography>
             </MainCard>
         )
     }

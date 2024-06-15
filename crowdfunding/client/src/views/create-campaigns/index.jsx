@@ -45,7 +45,7 @@ const CreateCampain = () => {
     if (!address) {
         return (
             <MainCard title='Create Campaign'>
-                <Typography variant="h6" color={'0000'}>Please connect your wallet.</Typography>
+                <Typography variant="h6" color={'red'}>Please connect your wallet to create campaign.</Typography>
             </MainCard>
         )
     }
