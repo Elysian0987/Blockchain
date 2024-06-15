@@ -1,4 +1,3 @@
-```markdown
 # Elysian Blockchain
 
 ## Introduction
@@ -20,7 +19,7 @@ Welcome to the Elysian Blockchain repository, a simple blockchain implementation
 Clone the repository:
 ```bash
 git clone https://github.com/Elysian0987/Blockchain.git
-```
+
 
 Install dependencies:
 ```bash
@@ -32,4 +31,3 @@ Contributions are welcome. Please follow the standard GitHub workflow for submit
 
 ## License
 This project is licensed under the MIT License.
-```
