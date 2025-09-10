@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome to the Elysian0987 repository, which contains a collection of blockchain-related projects. This repository includes the following projects:
+Welcome to the Blockchain repository, which contains a collection of blockchain-related projects. This repository includes the following projects:
 
 - **Blockchain**: A simple blockchain implementation using JavaScript, providing a basic understanding of blockchain concepts and their applications.
 - **Crowdfunding**: A crowdfunding platform built on top of the Elysian Blockchain, allowing users to create and manage fundraising campaigns.
