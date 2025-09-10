@@ -1,7 +1,7 @@
-# Elysian Blockchain
+# Blockchain Crowd Funding
 
 ## Introduction
-Welcome to the Elysian Crowd Funding repository, a simple blockchain implementation using JavaScript. This project aims to provide a basic understanding of blockchain concepts and their applications.
+Welcome to the Blockchain Crowd Funding repository, a simple blockchain implementation using JavaScript. This project aims to provide a basic understanding of blockchain concepts and their applications.
 
 ## Features
 - **Node Management**: The blockchain includes a simple node management system, allowing for the creation and management of nodes.
